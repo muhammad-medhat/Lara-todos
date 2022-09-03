@@ -1,0 +1,4 @@
+pick 421ac03466bc604cf02f9ed6c078612c21e91571 chhor: installing and compiling ui
+pick c2bcc76e2ac8cf17b0eeb2d7f1f85dbad6e8a46f feat: create and  delete todos
+pick dec1e825fbf619ca1af563254a2fd0a55165bd38 feat: all crud ops
+pick d5ea200b4b2317a83f24672a3540f797eda4233a merge conflict

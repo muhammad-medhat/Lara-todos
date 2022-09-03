@@ -1,0 +1,5 @@
+to run react on laravel
+
+
+composer require laravel/ui
+npm install 
