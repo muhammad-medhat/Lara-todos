@@ -15,5 +15,4 @@ class Todo extends Model
  * @var array
  */
 // protected $guarded = [];
-
-}
+protected $fillable = ['title', 'description'];}
